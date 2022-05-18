@@ -9,8 +9,8 @@
 WhatsApp : +8801979565435
 
 BD : 1 Mouth 500 TK
-PK : 1 Mouth 500 Rs
-INDIA : 1 Mouth 500 Rs
+PK : 1 Mouth 500 Money
+INDIA : 1 Mouth 500 Money
 
 Any Country : 1 Mouth USA 15 Dollar 
 
