@@ -21,6 +21,6 @@ Any Country : 1 Mouth USA 15 Dollar
 😈 pip2 install requests
 😈 pip2 install mechanize
 😈 pkg install git
-😈 git clone https://github.com/Niki404-Cyber/KILLER-C-2009
+😈 git clone https://github.com/KILLER-BOY-202/KILLER-C-2009
 😈 cd KILLER-C-2009
 😈 python2 Killer.py
